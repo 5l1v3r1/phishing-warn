@@ -1,0 +1,54 @@
+# Companies
+
+paypal
+apple
+microsoft
+google
+
+# Social media
+
+facebook
+twitter
+tumblr
+reddit
+youtube
+instagram
+whatsapp
+linkedin
+
+# Cryptocurrency
+
+bitcoin
+blockchain
+
+# Other
+
+github
+bank
+money
+password
+verification
+login
+log-in
+signin
+sign-in
+credential
+support
+purchase
+unlock
+safe
+form
+invoice
+
+# Clouds
+
+icould
+appleid
+iforgot
+itunes
+
+# Email
+
+gmail
+outlook
+office365
